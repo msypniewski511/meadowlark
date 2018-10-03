@@ -1,0 +1,25 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Web application from book Web Development with Node and Express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/msypniewski511/meadowlark.git"
+  },
+  "keywords": [
+    "Web",
+    "Development",
+    "Node.js",
+    "Express"
+  ],
+  "author": "Ethan Brown, Maiej Sypniewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msypniewski511/meadowlark/issues"
+  },
+  "homepage": "https://github.com/msypniewski511/meadowlark#readme"
+}
