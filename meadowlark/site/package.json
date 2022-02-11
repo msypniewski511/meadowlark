@@ -24,6 +24,6 @@
   "homepage": "https://github.com/msypniewski511/meadowlark#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "express-handlebars": "^3.0.0"
+    "express-handlebars": "^5.3.1"
   }
 }
