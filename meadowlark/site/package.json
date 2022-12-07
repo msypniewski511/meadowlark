@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/msypniewski511/meadowlark#readme",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "express-handlebars": "^3.0.0"
   }
 }
